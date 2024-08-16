@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Soyam a 3rd year cse undergrad!
 
 <!--
 **Soyam2405/Soyam2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
