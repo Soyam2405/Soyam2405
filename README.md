@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soyam Kumar Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
-<img alin+"right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2NHVjJFTWZWNjYzR2wyLXdCcGd4cHpFUk4tZ3xBQ3Jtc0treEFtb05iR2gzVTZOZFZ0bXBOdktQSXVpd0tvUXBXNGwwTDJhVU5uZ3VXWXcwalNjM1BvNjRnTmRUVTlSTW9pTVNvd1BnczRoWVBUenpYTHIwcGpxdmhITl93ODJRcFZ4ejFuWmp3TXhWMThWbEozNA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyam2405&label=Profile%20views&color=0e75b6&style=flat" alt="soyam2405" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyam2405" alt="soyam2405" /></a> </p>
@@ -10,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/soyam2405" target="blank"><img src="https://img.shields.io/twitter/follow/soyam2405?logo=twitter&style=for-the-badge" alt="soyam2405" /></a> </p>
 
 - 💬 Ask me about **Anything!**
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/></img>
 
 - 📫 How to reach me **guptaji240504@gmail.com**
 
